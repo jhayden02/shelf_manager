@@ -1,6 +1,6 @@
 * Shelf Manager
 
-An inventory management display application.
+A lightweight tool for managing inventory that is stored on shelves.
 
 Shelf Manager interacts with an inventory database (like Shopify) to help manage a local layout of shelving for pickers and packers in a company.
 
