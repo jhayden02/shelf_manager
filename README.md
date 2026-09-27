@@ -1,4 +1,4 @@
-* Shelf Manager
+# Shelf Manager
 
 A lightweight tool for managing inventory that is stored on shelves.
 
