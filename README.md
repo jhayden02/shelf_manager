@@ -13,3 +13,7 @@ Actions:
 - Remove item from shelf.
 - Move item to another shelf.
 
+### License
+Shelf Manager is licensed under the GNU General Public License v3.0. You may read the full copy
+of the license [here](LICENSE).
+
